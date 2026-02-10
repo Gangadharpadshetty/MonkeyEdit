@@ -47,7 +47,4 @@ Optionally, MonkeyEdit can be integrated with APIs or deployed as a service.
 - **Backend:** FastAPI (optional deployment)  
 - **Utilities:** Logging, File I/O, Argument Parsing
 
----
-
-## 📁 Project Structure (Example)
 
